@@ -1,4 +1,6 @@
 # My Arduino Lab
+![image](https://github.com/v-dav/arduino_lab/assets/115344057/b8947f75-8ac4-4261-832e-9f3d4fdf4247)
+
 
 ## Introduction
 Arduino is an open-source electronics platform that is easy to use, and it is a great way to get started with electronics and coding.
